@@ -1,0 +1,15 @@
+
+{
+  "name": "secretkey-cli",
+  "version": "0.0.1",
+  "description": "CLI client for secretkey",
+  "main": "index.js",
+  "repository": "https://github.com/nguyenkha/secretkey",
+  "author": "Kha Do <donguyenkha@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "crypto-mpc": "^0.0.3",
+    "node-fetch": "^2.6.0",
+    "sjcl": "^1.0.8"
+  }
+}
